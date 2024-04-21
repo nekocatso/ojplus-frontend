@@ -1,0 +1,31 @@
+"filename", "language", "vue", "comment", "blank", "total"
+"/home/lrh/projects copy/ojplus-frontend/src/App.vue", "vue", 5, 0, 3, 8
+"/home/lrh/projects copy/ojplus-frontend/src/components/Articles.vue", "vue", 213, 0, 16, 229
+"/home/lrh/projects copy/ojplus-frontend/src/components/AuthDialog.vue", "vue", 93, 0, 11, 104
+"/home/lrh/projects copy/ojplus-frontend/src/components/BaseComponent.vue", "vue", 18, 0, 3, 21
+"/home/lrh/projects copy/ojplus-frontend/src/components/Button/EmailVerify.vue", "vue", 57, 0, 5, 62
+"/home/lrh/projects copy/ojplus-frontend/src/components/Button/ThemeSwitch.vue", "vue", 8, 0, 4, 12
+"/home/lrh/projects copy/ojplus-frontend/src/components/Comment.vue", "vue", 279, 0, 19, 298
+"/home/lrh/projects copy/ojplus-frontend/src/components/CommentDisplay.vue", "vue", 46, 0, 7, 53
+"/home/lrh/projects copy/ojplus-frontend/src/components/CommentsSection.vue", "vue", 62, 0, 7, 69
+"/home/lrh/projects copy/ojplus-frontend/src/components/Form/EmailLogin.vue", "vue", 37, 0, 2, 39
+"/home/lrh/projects copy/ojplus-frontend/src/components/Form/PwdLogin.vue", "vue", 102, 0, 0, 102
+"/home/lrh/projects copy/ojplus-frontend/src/components/Form/Search.vue", "vue", 26, 0, 2, 28
+"/home/lrh/projects copy/ojplus-frontend/src/components/Form/Signup.vue", "vue", 105, 0, 2, 107
+"/home/lrh/projects copy/ojplus-frontend/src/components/Layout/AuthDialogQuestions.vue", "vue", 23, 0, 0, 23
+"/home/lrh/projects copy/ojplus-frontend/src/components/Navigation.vue", "vue", 165, 0, 16, 181
+"/home/lrh/projects copy/ojplus-frontend/src/components/Paste copy.vue", "vue", 196, 0, 6, 202
+"/home/lrh/projects copy/ojplus-frontend/src/components/TheAvatar.vue", "vue", 54, 0, 9, 63
+"/home/lrh/projects copy/ojplus-frontend/src/components/ThePostCard.vue", "vue", 11, 0, 4, 15
+"/home/lrh/projects copy/ojplus-frontend/src/components/bulletinboard.vue", "vue", 140, 0, 16, 156
+"/home/lrh/projects copy/ojplus-frontend/src/components/testnav.vue", "vue", 33, 0, 4, 37
+"/home/lrh/projects copy/ojplus-frontend/src/icon/thumb.vue", "vue", 24, 0, 4, 28
+"/home/lrh/projects copy/ojplus-frontend/src/views/home/Articledisplay.vue", "vue", 205, 0, 12, 217
+"/home/lrh/projects copy/ojplus-frontend/src/views/home/Community.vue", "vue", 105, 0, 19, 124
+"/home/lrh/projects copy/ojplus-frontend/src/views/home/Home.vue", "vue", 340, 0, 38, 378
+"/home/lrh/projects copy/ojplus-frontend/src/views/home/QuickLinks.vue", "vue", 7, 0, 4, 11
+"/home/lrh/projects copy/ojplus-frontend/src/views/paste/Paste.vue", "vue", 223, 0, 12, 235
+"/home/lrh/projects copy/ojplus-frontend/src/views/paste/PasteShare.vue", "vue", 81, 0, 3, 84
+"/home/lrh/projects copy/ojplus-frontend/src/views/test/UserProfile.vue", "vue", 16, 0, 2, 18
+"/home/lrh/projects copy/ojplus-frontend/src/views/test/test.vue", "vue", 331, 0, 37, 368
+"Total", "-", 3005, 0, 267, 3272
